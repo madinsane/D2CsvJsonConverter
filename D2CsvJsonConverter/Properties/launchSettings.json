@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "D2CsvJsonConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "0 C:\\Users\\madin\\Documents\\CSharpProjects\\CsvJsonTests"
+    }
+  }
+}
